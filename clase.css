@@ -1,0 +1,18 @@
+.cuadrado {
+  border: solid 2px;
+  height: 200px;
+  width: 200px;
+}
+.fondo {
+  width: 400px;
+  background-image: url("img/descarga.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100px;
+}
+body {
+    background-image: url(img/1583169237_876817_1583173125_noticia_normal.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
